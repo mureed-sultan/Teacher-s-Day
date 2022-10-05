@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
 @import 'tailwindcss/base';
 
 @import 'fonts/import';
@@ -27,3 +31,5 @@
 @import 'tailwindcss/utilities';
 @import 'utilities/common';
 @import 'utilities/animation';
+
+

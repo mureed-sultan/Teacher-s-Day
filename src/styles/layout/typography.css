@@ -84,7 +84,9 @@ h3 {
 }
 
 h4 {
-  font-size: calc(var(--heading-4) * 1px);
+	font-size: 26px;
+	line-height: 1px;
+	font-family: 'Amatic SC', cursive !important;
 
   @screen sm {
     font-size: calc((var(--heading-4) * 1px) + var(--heading-4) * (100vw - 320px) / 1820);
